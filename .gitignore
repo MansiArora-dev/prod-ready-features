@@ -34,3 +34,7 @@ build/
 
 ### Sensitive properties files
 application-local.properties
+
+### Sensitive log files
+*.log
+logs/
